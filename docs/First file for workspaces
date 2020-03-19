@@ -1,0 +1,5 @@
+First file for workspaces
+
+10 PRINT "This is a first document"
+20 GO TO 10
+30 END
